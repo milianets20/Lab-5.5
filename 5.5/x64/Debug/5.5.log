@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  5.5.cpp
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab5.05.cpp\5.5\5.5.cpp(17,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\kama\OneDrive\Робочий стіл\test\Lab5.05.cpp\x64\Debug\5.5.lib и объект C:\Users\kama\OneDrive\Робочий стіл\test\Lab5.05.cpp\x64\Debug\5.5.exp
+  5.5.vcxproj -> C:\Users\kama\OneDrive\Робочий стіл\test\Lab5.05.cpp\x64\Debug\5.5.dll
